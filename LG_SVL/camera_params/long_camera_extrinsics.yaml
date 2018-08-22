@@ -7,10 +7,10 @@ header:
 child_frame_id: long_camera
 transform:
   rotation:
-    x: 0
+    x: 0.0348995
     y: 0
     z: 0
-    w: 0
+    w: 0.9993908
   translation:
     x: 0
     y: 0
