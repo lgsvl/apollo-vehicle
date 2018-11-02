@@ -7,8 +7,8 @@ header:
 child_frame_id: radar_front
 transform:
   translation:
-    x: 1.374807E-06
-    y: 2.639915
+    x: 0
+    y: 2.63992
     z: -1.286314
   rotation:
     x: 0
