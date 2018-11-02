@@ -1,6 +1,6 @@
 vehicle_param {
-  front_edge_to_center: 2.436
-  back_edge_to_center: 2.436
+  front_edge_to_center: 3.622
+  back_edge_to_center: 1.25
   left_edge_to_center: 0.925
   right_edge_to_center: 0.925
 
