@@ -1,6 +1,6 @@
-# Vehicle Calibration Configs
+# Apollo Vehicle Calibration Configs for LG Automotive Simulator
 
-HMI will list the subfolders as vehicles available to use.
+Dreamview will list the subfolders as vehicles available to use.
 
 For a well functioning vehicle, generally you need the following config files:
 
@@ -18,3 +18,10 @@ For a well functioning vehicle, generally you need the following config files:
 
 Take mkz8 as an example, but don't forget to fill the rtk_from.ntrip in
 gnss_params/gnss_conf.pb.txt.
+
+
+## Copyright and License
+
+Copyright (c) 2018 LG Electronics, Inc.
+
+This software contains code licensed as described in LICENSE.
