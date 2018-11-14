@@ -1,0 +1,18 @@
+vehicle_param {
+  front_edge_to_center: 3.704
+  back_edge_to_center: 1.116
+  left_edge_to_center: 1.09
+  right_edge_to_center: 1.09
+
+  length: 4.82
+  width: 2.18
+  height: 2.10
+  min_turn_radius: 5.05386147161
+  max_acceleration: 2.0
+  max_deceleration: -6.0
+  max_steer_angle: 8.20304748437
+  max_steer_angle_rate: 6.98131700798
+  steer_ratio: 16
+  wheel_base: 2.744
+  wheel_rolling_radius: 0.33
+}
